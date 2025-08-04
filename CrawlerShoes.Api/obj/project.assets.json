@@ -1193,23 +1193,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rodri\\.nuget\\packages\\": {},
+    "C:\\Users\\Timeware70\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\desenvolvimento\\CrawlerShoes\\CrawlerShoes.Api\\CrawlerShoes.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Timeware70\\source\\repos\\CrawlerShoes\\CrawlerShoes.Api\\CrawlerShoes.Api.csproj",
       "projectName": "CrawlerShoes.Api",
-      "projectPath": "C:\\desenvolvimento\\CrawlerShoes\\CrawlerShoes.Api\\CrawlerShoes.Api.csproj",
-      "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-      "outputPath": "C:\\desenvolvimento\\CrawlerShoes\\CrawlerShoes.Api\\obj\\",
+      "projectPath": "C:\\Users\\Timeware70\\source\\repos\\CrawlerShoes\\CrawlerShoes.Api\\CrawlerShoes.Api.csproj",
+      "packagesPath": "C:\\Users\\Timeware70\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Timeware70\\source\\repos\\CrawlerShoes\\CrawlerShoes.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Timeware70\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1236,7 +1236,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -1274,7 +1274,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
