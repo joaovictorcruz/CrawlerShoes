@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CrawlerShoes.Api.Controllers.CrawlerController",
+    "Method": "GetShoes",
+    "RelativePath": "api/Crawler/netshoes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

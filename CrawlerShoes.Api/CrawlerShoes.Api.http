@@ -1,0 +1,6 @@
+@CrawlerShoes.Api_HostAddress = http://localhost:5205
+
+GET {{CrawlerShoes.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
